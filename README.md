@@ -17,3 +17,4 @@ some of its capabilities are
    https://sociabuzz.com/asp29tech/tribe for international payment like visa and paypal
 
    full overview and usage please visit my youtube channel https://www.youtube.com/@asp-29blackhat18
+   You can use precompiled bin files or compiled from source using arduino ide with ESP8266 Deauther board installed version 2.7.xx
