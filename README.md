@@ -7,6 +7,8 @@ some of its capabilities are
 3. Customize the html file that you can upload on the file manager menu
 4. Can detect hidden SSID names, useful if you want to attack hidden targets
 5. can detect other deauther attacks
+
+6. 
    jika kalian tinggal di indonesia bisa mensupport saya dengan membeli produk si
    https://tokopedia.link/asp-29 
    https://shopee.co.id/asp.29.tech?smtt...
