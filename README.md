@@ -18,3 +18,11 @@ some of its capabilities are
 
    full overview and usage please visit my youtube channel https://www.youtube.com/@asp-29blackhat18
    You can use precompiled bin files or compiled from source using arduino ide with ESP8266 Deauther board installed version 2.7.xx
+
+
+Installation tutorial
+1. Download the arduino ide version 1.18.19
+2. follow the instruction https://blog.spacehuhn.com/install-deauther-using-arduino
+3. import the library ArduinoJson.5.13.5 you can download modified library from this repository
+4. go to tool>board>ESP8266 deauther>Nodemcu (or wemos d1 mini)
+5. here we go...,you have already to use it and upload with your own modified code
